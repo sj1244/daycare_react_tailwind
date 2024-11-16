@@ -3,10 +3,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        daycareBlue: "purple", // Soft baby blue
-        daycareYellow: "pink", // Gentle pastel yellow
-        daycarePink: "violet", // Light pastel pink
-        daycareGreen: "beige", // Minty pastel green
+        daycareBlue: "#CAB9D9", // Soft baby blue
+        daycareYellow: "#B7A8D4", // Gentle pastel yellow
+        daycarePink: "#8B72BE", // Light pastel pink
+        daycareGreen: "#F4D9C8", // Minty pastel green
       },
       fontFamily: {
         playful: ['"Comic Sans MS"', "cursive", "sans-serif"],
